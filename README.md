@@ -11,4 +11,16 @@ Arnold transform DC-coefficient of 2D discrete Fourier transform (2D-DFT) Quanti
 <li> In arnold.py the implementation of <b> Arnold Transformation </b> which is one of the most used scrambling techniques to permute an image or signal can be found.
 <li> In single_channel.py the implementation of two algorithms: 
   i. <b> Watermark Embedding Process </b> and ii. <b> Watermark Extraction Process </b>, proposed by this study can be found.
-<li> In proposed_embed.py and proposed_extract.py the implementation of <b> Proposed Watermarking Technique proposed </b> (including <b> Pre-processing of the Host Image and Watermark Image </b> and "Post-processing the bit sequence </b>) by this study can be found.
+<li> In proposed_embed.py and proposed_extract.py the implementation of <b> Proposed Watermarking Technique proposed </b> (including <b> Pre-processing of the Host Image and Watermark Image </b> and <b> Post-processing the bit sequence </b>) by this study can be found.
+  
+<b> <h3> Experimental Results </h3> </b>
+<li> Host images: (a) Avion, (b) Baboon, (c) Lena, (d) Peppers and (e) Sailboat
+  ![All](https://user-images.githubusercontent.com/55454660/131952995-c0039e9b-7d2b-4fa2-b64f-2d7778096899.jpg)
+
+<li>  Color watermark image
+  ![w1 - Copy](https://user-images.githubusercontent.com/55454660/131953079-dac3bfc9-0556-4b49-9a0c-52b370aa3666.jpg)
+  
+<li> Fig. 6. Extracted watermark images from watermarked images after different attacks.
+  ![extract_all](https://user-images.githubusercontent.com/55454660/131953093-ab4d4681-8c8a-4f9f-882d-47e4421e4ca4.jpg)
+
+<li> <b> Average time for Watermark Embedding / Extraction Time is found 0.3445/0.2700 which outperforms the existence works hence the proposed mmethod can be implement in real-time applications. </b>
