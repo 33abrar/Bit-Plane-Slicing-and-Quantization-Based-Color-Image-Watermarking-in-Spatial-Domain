@@ -1,5 +1,5 @@
 # Bit-Plane-Slicing-and-Quantization-Based-Color-Image-Watermarking-in-Spatial-Domain
-You can find the source codes and algorithms proposed by this <b> "Bit Plane Slicing and Quantization-Based Color Image Watermarking in Spatial Domain" </b> study. The link of this article: https://link.springer.com/chapter/10.1007/978-981-16-0586-4_30
+You can find the source codes and algorithms proposed by this <b> "Bit Plane Slicing and Quantization-Based Color Image Watermarking in Spatial Domain" </b> study. The link of this article: https://link.springer.com/chapter/10.1007/978-981-16-0586-4_30 <br>
 <I> Please give a star to this repository and cite the work. Thank you. </I>
 
 <b> <h3> Abstract </h3> </b>
