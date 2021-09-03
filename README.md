@@ -6,3 +6,9 @@ In this paper, a robust and fast watermarking scheme in spatial domain is introd
 
 <b> Keywords </b>
 Arnold transform DC-coefficient of 2D discrete Fourier transform (2D-DFT) Quantization Bit plane slicing 
+
+<b> Code </b>
+<li> In arnold.py the implementation of Arnold Transformation which is one of the most used scrambling techniques to permute an image or signal can be found.
+<li> In single_channel.py the implementation of two algorithms: 
+  i. Watermark Embedding Process and ii. Watermark Extraction Process, proposed by this study can be found.
+<li> In proposed_embed.py and proposed_extract.py the implementation of "Proposed Watermarking Technique proposed" (including "Pre-processing of the Host Image and Watermark Image" and "Post-processing the bit sequence") by this study can be found.
