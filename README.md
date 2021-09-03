@@ -17,10 +17,15 @@ Arnold transform DC-coefficient of 2D discrete Fourier transform (2D-DFT) Quanti
 <li> Host images: (a) Avion, (b) Baboon, (c) Lena, (d) Peppers and (e) Sailboat
   <img src="https://user-images.githubusercontent.com/55454660/131952995-c0039e9b-7d2b-4fa2-b64f-2d7778096899.jpg" alt="Can't display it this time">
 
+  
 <li>  Color watermark image
   <img src="https://user-images.githubusercontent.com/55454660/131953079-dac3bfc9-0556-4b49-9a0c-52b370aa3666.jpg" alt="Can't display it this time">
+  
   
 <li> Extracted watermark images from watermarked images after different attacks.
   <img src="https://user-images.githubusercontent.com/55454660/131953093-ab4d4681-8c8a-4f9f-882d-47e4421e4ca4.jpg" alt="Can't display it this time">
 
+  
 <li> <b> Average time for Watermark Embedding / Extraction Time is found 0.3445/0.2700 which outperforms the existence works hence the proposed mmethod can be implement in real-time applications. </b>
+  
+  
